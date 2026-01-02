@@ -3,3 +3,6 @@ dist/
 .env
 *.log
 .DS_Store
+# Runtime / deployment files not used by this repo
+package.json
+wrangler.toml

@@ -1,0 +1,4 @@
+# TriggerGuard runtime evidence (generated)
+*.runtime.json
+*.runtime.ndjson
+*.tmp.json

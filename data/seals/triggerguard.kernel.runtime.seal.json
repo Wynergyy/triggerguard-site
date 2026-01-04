@@ -1,0 +1,10 @@
+{
+  "kind": "triggerguard_kernel_seal",
+  "version": "1.0.0",
+  "kernel_version": "1.0.0",
+  "time_utc": "2026-01-04T06:15:17.758Z",
+  "algorithm": "sha256",
+  "runtime_log_path": "data/runtime/triggerguard.kernel.runtime.json",
+  "runtime_log_bytes": 200,
+  "runtime_log_sha256": "dbad271ba6df6511c71b618ae54a83d9eb2cf2a1906d38970a980436651ef152"
+}

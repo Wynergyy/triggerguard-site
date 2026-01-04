@@ -1,13 +1,20 @@
 {
   "kind": "triggerguard_kernel_replay",
   "version": "1.0.0",
-  "time_utc": "2026-01-04T06:15:17.828Z",
+  "time_utc": "2026-01-04T06:21:31.636Z",
   "runtime_log_path": "data/runtime/triggerguard.kernel.runtime.json",
-  "runtime_log_sha256": "dbad271ba6df6511c71b618ae54a83d9eb2cf2a1906d38970a980436651ef152",
+  "runtime_log_sha256": "412030805c5466e644c3f649eb8ecb71691733dc81d1ae1cccf319d4394c0975",
   "counts": {
-    "total_events": 0,
-    "valid_kernel_events": 0,
+    "total_events": 1,
+    "valid_kernel_events": 1,
     "invalid_events": 0
   },
-  "sample": []
+  "sample": [
+    {
+      "id": "4284003a-d42a-4987-b2d0-c6e08483453a",
+      "time_utc": "2026-01-04T06:21:31.533Z",
+      "type": "enforcement.pulse",
+      "decision": "flag"
+    }
+  ]
 }
